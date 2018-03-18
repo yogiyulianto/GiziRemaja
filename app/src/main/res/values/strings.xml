@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gizi Remaja</string>
+    <string name="definisi_obesitas">
+        Definisi Obesitas menurut para dokter adalah sebagai berikut: \n
+        1.Suatu Kondisi dimana lemak tubuh berada dalam jumlah yang berlebihan \n
+        2.Suatu Penyakit kronik yang dapat di obati \n
+        3.Suatu penyakit yang epidemic \n
+        4.Suatu kondisi yang berhubungan dengan penyakit-penyakit lain dan 
+        dapat menurunkan kualitas hidup [Irwan,2016]
+
+    </string>
+    <string name="definisi_obesitas2">
+        obesitas adalah kelainan atau penyakit yang di tandai dengan penimbunan
+        adipose secara berlebihan sedang overweight adalah kelebihan berat badan
+        dibandingkan dengan berat badan ideal yang mungkin dapat disebabkan oleh
+        peningkatan massa otot seperti pada atlet binaraga. Obesitas bisa dapat
+        ditentukan berdasarkan perhitungan index masa tubuh(IMT).
+    </string>
+</resources>
