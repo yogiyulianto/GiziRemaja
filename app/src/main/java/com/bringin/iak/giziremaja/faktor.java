@@ -19,7 +19,7 @@ public class faktor extends AppCompatActivity {
         btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent iNext = new Intent(getApplicationContext(),Kategori.class);
+                Intent iNext = new Intent(faktor.this,Kategori.class);
                 startActivity(iNext);
             }
         });
