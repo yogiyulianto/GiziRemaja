@@ -16,4 +16,54 @@
         peningkatan massa otot seperti pada atlet binaraga. Obesitas bisa dapat
         ditentukan berdasarkan perhitungan index masa tubuh(IMT).
     </string>
+    <string name="penjelasan_faktor">
+        Faktor-faktor yang mempengaruhi Obesitas: \n\n
+        Faktor Umur \n
+        Faktor Pola Konsumsi \n
+        Faktor Aktivitas Fisik \n
+        Faktor Jenis Kelamin \n
+        Faktor Lingkungan \n
+        Faktor Tingkat Sosialisasi Ekonomi \n
+        Faktor Genetik \n
+    </string>
+    <string name="definisi_imt">
+        Indeks Massa Tubuh (IMT) atau Body Mass Indeks
+        (IMT) merupakan alat atau cara yang sederhana
+        untuk memantau status gizi orang dewasa,
+        khusunya yang berkaitan dengan kekurangan dan
+        kelebihan berat badan.
+    </string>
+    <string name="definisi_status_gizi">
+        Status Gizi Remaja mencangkup pengetahuan remaja
+        tentang gizi dam remaja dalam menjaga kebutuhan
+        gizinya serta perilaku untuk mengkonsumsi makanan
+        bergizi dan seimbang, Status gizi remaja meliputi :\n\n\n
+        1. Definisi status Gizi remaja \n
+        2. Faktor yang mempengaruhi status Gizi remaja \n
+        3. Kategori status Gizi remaja \n
+        4. Perhitungan status Gizi \n
+        5. Angka kecukupan gizi \n
+        6. Penalaksana dan kebutuhan status Gizi remaja yang underweight, overweight, dan obesitas \n
+        7. Dampak yang dapat di timbulkan dari underweight, overweight dan obesitas
+        
+        
+        
+    </string>
+    <string name="definisi_penata_laksana">
+        Prinsip tata laksana gizi lebih pada anak adalah menerapkan
+        pola makan yang benar,aktivitas fisis yang benar, dan 
+        modifikasi perilaku dengan orangtua sebagai panutan.
+        Tujuan tata laksana gizi lebih pada harus disesuaikan dengan
+        usia dan perkembangan anak diantaranya: \n\n\n
+        Pola makan yang benar \n
+        Pola aktivitas fisis yang benar \n
+        Modifikasi perilaku
+    </string>
+    <string name="definisi_dampak">
+        Faktor resiko penyakit kardiovaskular\n
+        Gangguan Saluran Pendaftaran\n
+        Obstruktive Sleep Apnea\n
+        Diabetes Melitus tipe-2\n
+        Pubertas Dini\n
+    </string>
 </resources>

@@ -17,7 +17,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".faktor" />
-        <activity android:name=".Kategori"></activity>
+        <activity android:name=".Kategori" />
+        <activity android:name=".imt" />
+        <activity android:name=".status" />
+        <activity android:name=".angka_kecukupan" />
+        <activity android:name=".penata_laksana" />
+        <activity android:name=".dampak" />
+        <activity android:name=".penutup" />
+        <activity android:name=".indeks"></activity>
     </application>
 
 </manifest>
